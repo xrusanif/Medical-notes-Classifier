@@ -1,7 +1,7 @@
 # Medical-notes-Classifier
-Medical text and anamnesis classifier for predicting specialty
+Medical text and anamnesis classifier for predicting medical specialty.
 
-THe problem...
+The problem...
 The value on the solution might be found in helping a doctor to find the optimal solution for diasnostics order. 
 Patient can save time and money, and doctor can serve a patient more efficiently on sparing time for unnecessary diagnostics. 
 Moreover, in difficult cases the algorithm may help a doctor to find a diagnosis faster, which in some cases may be extremely valuable, up to saving lives.
