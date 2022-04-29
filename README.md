@@ -1,7 +1,8 @@
 # Medical-notes-Classifier
 Medical text and anamnesis classifier for predicting medical specialty.
 
-The problem...
+The problem...A huge amount of data from the written notes that are not used. Important information can be extracted from them.
+
 The value on the solution might be found in helping a doctor to find the optimal solution for diasnostics order. 
 Patient can save time and money, and doctor can serve a patient more efficiently on sparing time for unnecessary diagnostics. 
 Moreover, in difficult cases the algorithm may help a doctor to find a diagnosis faster, which in some cases may be extremely valuable, up to saving lives.
